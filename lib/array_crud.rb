@@ -18,8 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
    sports_array =["Knicks", "Yankess","Nets", "Giants"]
-   sports_array
-  
+   sports_array.pop
 end
 
 def remove_element_from_start_of_array(array)
