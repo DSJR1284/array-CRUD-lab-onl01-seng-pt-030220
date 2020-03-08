@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(sports_array, index_number)
    sports_array = ["I", "am", "really", "learning", "arrays!"]
-   sports_array.index[1]
+   sports_array [1]
 end
 
 def retrieve_first_element_from_array(sports_array)
