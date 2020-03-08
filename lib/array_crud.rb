@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  sports_array =[]
 end
 
 def create_an_array
-  
+  sports_array =["Knicks", "Yankess","Nets", "Giants"]
 end
 
 def add_element_to_end_of_array(array, element)
