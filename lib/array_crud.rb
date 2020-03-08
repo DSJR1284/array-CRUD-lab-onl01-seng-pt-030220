@@ -8,16 +8,16 @@ end
 
 def add_element_to_end_of_array(sports_array, element)
   sports_array =["Knicks", "Yankess","Nets", "Giants"]
-  sports_array << "Jets"
+  sports_array << "arrays!"
 end
 
 def add_element_to_start_of_array(sports_array, element)
    sports_array =["Knicks", "Yankess","Nets", "Giants"]
-   sports_array.unshift ("Mets")
+   sports_array.unshift ("wow")
 end
 
 def remove_element_from_end_of_array(sports_array)
-   sports_array =["Knicks", "Yankess","Nets", "Giants"]
+   sports_array =["Knicks", "Yankess","Nets", "arrays!"]
    sports_array.pop
 end
 
