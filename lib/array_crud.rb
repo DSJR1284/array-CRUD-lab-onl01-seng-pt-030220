@@ -12,7 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+   sports_array =["Knicks", "Yankess","Nets", "Giants"]
+   sports_array
 end
 
 def remove_element_from_end_of_array(array)
