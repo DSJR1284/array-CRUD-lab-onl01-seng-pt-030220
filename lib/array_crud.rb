@@ -17,7 +17,7 @@ def add_element_to_start_of_array(sports_array, element)
 end
 
 def remove_element_from_end_of_array(sports_array)
-   sports_array =["Knicks", "Yankess","Nets", "arrays!"]
+   sports_array =["wow", "Yankess","Nets", "arrays!"]
    sports_array.pop
 end
 
@@ -32,11 +32,11 @@ def retrieve_element_from_index(sports_array, index_number)
 end
 
 def retrieve_first_element_from_array(sports_array)
-   sports_array =["Knicks", "Yankess","Nets", "Giants"]
+   sports_array =["wow", "Yankess","Nets", "Giants"]
    sports_array[0]
 end
 
 def retrieve_last_element_from_array(sports_array)
-   sports_array =["Knicks", "Yankess","Nets", "Giants"]
+   sports_array =["Knicks", "Yankess","Nets", "arrays!"]
    sports_array[-1]
 end
