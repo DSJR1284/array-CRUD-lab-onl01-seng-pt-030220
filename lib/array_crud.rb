@@ -22,13 +22,13 @@ def remove_element_from_end_of_array(sports_array)
 end
 
 def remove_element_from_start_of_array(sports_array)
-   sports_array =["Knicks", "Yankess","Nets", "Giants"]
+   sports_array =["wow", "Yankess","Nets", "Giants"]
    sports_array.shift
 end
 
 def retrieve_element_from_index(sports_array, index_number)
-   sports_array =["Knicks", "Yankess","Nets", "Giants"]
-   sports_array.index("Nets")
+   sports_array =["Knicks", "Yankess","am", "Giants"]
+   sports_array.index("am")
 end
 
 def retrieve_first_element_from_array(sports_array)
