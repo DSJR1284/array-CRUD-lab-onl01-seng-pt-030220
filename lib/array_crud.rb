@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(sports_array)
 end
 
 def retrieve_element_from_index(sports_array, index_number)
-   sports_array =["I", "am", "really", "learning", "arrays!"]
+   sports_array = ["I", "am", "really", "learning", "arrays!"]
    sports_array.index[1]
 end
 
